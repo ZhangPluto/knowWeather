@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Today's Weather"; ObjectID = "3TR-Af-UFs"; */
+"3TR-Af-UFs.text" = "Today's Weather";
+
+/* Class = "UILabel"; text = "Now:"; ObjectID = "4LK-2n-Wod"; */
+"4LK-2n-Wod.text" = "Now:";
+
+/* Class = "UILabel"; text = "℃"; ObjectID = "4MC-lT-8Vd"; */
+"4MC-lT-8Vd.text" = "℃";
+
+/* Class = "UILabel"; text = "Minimum:"; ObjectID = "4q6-EX-ihJ"; */
+"4q6-EX-ihJ.text" = "Minimum:";
+
+/* Class = "UILabel"; text = "1981-05-05"; ObjectID = "67H-yF-QGZ"; */
+"67H-yF-QGZ.text" = "1981-05-05";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "7S3-qK-F1J"; */
+"7S3-qK-F1J.text" = "20";
+
+/* Class = "UILabel"; text = "feels like: "; ObjectID = "9Fy-Qb-oFD"; */
+"9Fy-Qb-oFD.text" = "feels like: ";
+
+/* Class = "UILabel"; text = "Vancouver"; ObjectID = "CJH-ya-Bbn"; */
+"CJH-ya-Bbn.text" = "Vancouver";
+
+/* Class = "UILabel"; text = "Visibility:"; ObjectID = "CVo-Ge-4Ic"; */
+"CVo-Ge-4Ic.text" = "Visibility:";
+
+/* Class = "UILabel"; text = "humidity:"; ObjectID = "E6J-1i-Qxu"; */
+"E6J-1i-Qxu.text" = "humidity:";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "MeH-wh-LZt"; */
+"MeH-wh-LZt.text" = "20";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "P4V-t5-0dT"; */
+"P4V-t5-0dT.text" = "20";
+
+/* Class = "UILabel"; text = "℃"; ObjectID = "PO0-d1-9ui"; */
+"PO0-d1-9ui.text" = "℃";
+
+/* Class = "UILabel"; text = "maximum:"; ObjectID = "RN3-Fk-LyC"; */
+"RN3-Fk-LyC.text" = "maximum:";
+
+/* Class = "UILabel"; text = "%RH"; ObjectID = "Ufe-98-aXw"; */
+"Ufe-98-aXw.text" = "%RH";
+
+/* Class = "UILabel"; text = "℃"; ObjectID = "ViC-gr-BbZ"; */
+"ViC-gr-BbZ.text" = "℃";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "Ykp-Th-dxJ"; */
+"Ykp-Th-dxJ.text" = "20";
+
+/* Class = "UILabel"; text = "℃"; ObjectID = "ZHd-7F-YHX"; */
+"ZHd-7F-YHX.text" = "℃";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "cK8-RH-cyb"; */
+"cK8-RH-cyb.text" = "20";
+
+/* Class = "UILabel"; text = "M"; ObjectID = "oU6-sk-NyF"; */
+"oU6-sk-NyF.text" = "M";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "tXe-qO-wXT"; */
+"tXe-qO-wXT.text" = "20";
+
+/* Class = "UILabel"; text = "scattered clouds"; ObjectID = "ydT-vS-b9p"; */
+"ydT-vS-b9p.text" = "scattered clouds";
+
+/* Class = "UILabel"; text = "FRIDAY"; ObjectID = "ywS-7x-kEE"; */
+"ywS-7x-kEE.text" = "FRIDAY";
